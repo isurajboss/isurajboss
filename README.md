@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suraj Mehra</h1>
+<h3 align="center"> A Commerce Student who found a passion for programming and creating Gaming content 🦾</h3>
 
-<!--
-**isurajboss/isurajboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- More about me on my personal website: [iamsuraj.in](https://iamsuraj.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+<!-- ABOUT-ME-LIST:START -->
+- 👩‍💻 I’m currently working on improving my programming skills.
+- 🌱 I’m always looking for fun ways to connect with my audience while learning something new along the way.
+- 📫 How to reach me: [iamsuraj.in](https://iamsuraj.in)
+- 📍 Bhopal, India
+
+
+  <!-- ABOUT-ME-LIST:END -->
